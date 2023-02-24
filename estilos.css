@@ -5,3 +5,6 @@ body{
 a:hover{
     background-color: cyan;
 }
+a:visited{
+    color: green;
+}
