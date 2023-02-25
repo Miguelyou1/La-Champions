@@ -4,11 +4,11 @@ body{
     color: darkred;
 }
 a:hover{
-    color: cornflowerblue;
-    background-color: yellow;
+    color: purple;
+    background-color: orange;
 
 }
 a:visited{
-    color: green;
-    background-color: blueviolet;
+    color: orange;
+    background-color: purple;
 }
