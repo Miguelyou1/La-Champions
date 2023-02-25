@@ -12,3 +12,6 @@ a:active{
     color: orange;
     background-color: purple;
 }
+a:visited{
+    background-color: yellow;
+}
